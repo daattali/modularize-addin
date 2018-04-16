@@ -1,0 +1,4 @@
+Name: Namespace a Shiny input
+Description: Wrap a Shiny input in a call to `ns("")`
+Binding: namespace_id_addin
+Interactive: false
